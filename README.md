@@ -1,0 +1,2 @@
+# SSDT_Test_VS2017
+Testing VS SSDT
